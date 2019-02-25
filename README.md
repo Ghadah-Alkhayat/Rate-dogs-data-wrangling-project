@@ -10,4 +10,4 @@ The dataset that I wrangled, analyzed and visualized is the tweet archive of Twi
 1.3 Cleaning Data
   
 ## Used langguage 
- Python  
+ Python:  pandas, numpy, requests, tweepy,  json and matplotlib.pyplot as plt 
